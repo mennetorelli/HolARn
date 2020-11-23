@@ -3,23 +3,11 @@
     "m_SelectedPackage": {
         "deviceId": "R58N32Y0QNF",
         "name": "com.DefaultCompany.HolARn",
-        "processId": 22532,
+        "processId": 16555,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "R58N32Y0QNF",
-            "name": "com.DefaultCompany.HolARn",
-            "processId": 17432,
-            "exited": true
-        },
-        {
-            "deviceId": "R58N32Y0QNF",
-            "name": "com.microsoft.launcher",
-            "processId": 1552,
-            "exited": true
-        },
         {
             "deviceId": "R58N32Y0QNF",
             "name": "com.DefaultCompany.HolARn",
@@ -36,6 +24,24 @@
             "deviceId": "R58N32Y0QNF",
             "name": "com.DefaultCompany.HolARn",
             "processId": 22532,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N32Y0QNF",
+            "name": "com.DefaultCompany.HolARn",
+            "processId": 2865,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N32Y0QNF",
+            "name": "com.DefaultCompany.HolARn",
+            "processId": 15426,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N32Y0QNF",
+            "name": "com.DefaultCompany.HolARn",
+            "processId": 16555,
             "exited": false
         }
     ],
