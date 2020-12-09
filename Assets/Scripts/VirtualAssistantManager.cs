@@ -31,6 +31,11 @@ class VirtualAssistantManager : MonoBehaviour
         }
     }
 
+    public void Play()
+    {
+        gameObject.GetComponent<Animator>().SetTrigger("Play");
+    }
+
     public void Correct()
     {
         gameObject.GetComponent<Animator>().SetTrigger("Jump");
@@ -82,14 +87,14 @@ class VirtualAssistantManager : MonoBehaviour
 
     public GameObject GetClosestInteractable()
     {
-        List<GameObject> correctInteractables = GameManager.Instance.Interactables;
+        List<GameObject> correctInteractables = GameManager.Instance.InstantiatedInteractables;
         SortByDistance(correctInteractables);
         return correctInteractables[0];
     }
 
     public GameObject GetClosestTarget()
     {
-        List<GameObject> targets = GameManager.Instance.Targets.Where(x => GameManager.Instance.SelectedObject.CompareTag(x.tag)).ToList();
+        List<GameObject> targets = GameManager.Instance.InstantiatedTargets.Where(x => GameManager.Instance.SelectedObject.CompareTag(x.tag)).ToList();
         SortByDistance(targets);
         return targets[0];
     }

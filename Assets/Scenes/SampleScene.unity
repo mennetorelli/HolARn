@@ -152,9 +152,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abec17fc9e9dde14fa8a8c44a979e3c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ARPlacementInteractable: {fileID: 350361250}
-  Interactables: []
-  Targets: []
+  ARPlacementInteractable: {fileID: 350361251}
+  InstantiatedInteractables: []
+  InstantiatedTargets: []
   SelectedObject: {fileID: 0}
 --- !u!4 &48786113
 Transform:
@@ -275,22 +275,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_CustomReticle: {fileID: 0}
-  m_PlacementPrefab: {fileID: 2693418033209249456, guid: ef519314d3739864585105e163b489ab, type: 3}
+  m_PlacementPrefab: {fileID: 0}
   m_OnObjectPlaced:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 48786112}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: StartGame
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!4 &350361252
 Transform:
   m_ObjectHideFlags: 0

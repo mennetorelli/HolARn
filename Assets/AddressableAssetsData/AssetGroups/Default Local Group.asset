@@ -22,211 +22,223 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 6941107222662051649, guid: 0abfd83d86bebae4ea51fdfe023f9b22, type: 3}
-    m_TargetAsset: {fileID: 6941107222662051649, guid: 0abfd83d86bebae4ea51fdfe023f9b22, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 1236cff46d9530a4ebc7ff7f5900140b
     m_Address: BinGlass
     m_ReadOnly: 0
     m_SerializedLabels:
     - Targets
-    m_MainAsset: {fileID: 2340388763403054432, guid: 1236cff46d9530a4ebc7ff7f5900140b, type: 3}
-    m_TargetAsset: {fileID: 2340388763403054432, guid: 1236cff46d9530a4ebc7ff7f5900140b, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 12bf0b6b3ba670e4d9f65713754ed96d
     m_Address: OrangeJuice
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 1798365723760465676, guid: 12bf0b6b3ba670e4d9f65713754ed96d, type: 3}
-    m_TargetAsset: {fileID: 1798365723760465676, guid: 12bf0b6b3ba670e4d9f65713754ed96d, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 218c17d8a6ed66f41b62b51f37d46866
     m_Address: WaterBottle1
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 5619836654085259985, guid: 218c17d8a6ed66f41b62b51f37d46866, type: 3}
-    m_TargetAsset: {fileID: 5619836654085259985, guid: 218c17d8a6ed66f41b62b51f37d46866, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2ac880554e9ef8b42a3f36af75ea91c2
     m_Address: BiscuitsBox
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 6403352658449288456, guid: 2ac880554e9ef8b42a3f36af75ea91c2, type: 3}
-    m_TargetAsset: {fileID: 6403352658449288456, guid: 2ac880554e9ef8b42a3f36af75ea91c2, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2ae8b5dd13b8c694fbe5deff25ac4826
     m_Address: GlassBottleGreen
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 2584464499141938170, guid: 2ae8b5dd13b8c694fbe5deff25ac4826, type: 3}
-    m_TargetAsset: {fileID: 2584464499141938170, guid: 2ae8b5dd13b8c694fbe5deff25ac4826, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2c3b18f7284351746a4dfe7889c30db8
     m_Address: BinPaper
     m_ReadOnly: 0
     m_SerializedLabels:
     - Targets
-    m_MainAsset: {fileID: 692366200670866006, guid: 2c3b18f7284351746a4dfe7889c30db8, type: 3}
-    m_TargetAsset: {fileID: 692366200670866006, guid: 2c3b18f7284351746a4dfe7889c30db8, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 2ee5f453bf67691498ce429f9de22f80
     m_Address: WaterBottle2
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 172314812120199088, guid: 2ee5f453bf67691498ce429f9de22f80, type: 3}
-    m_TargetAsset: {fileID: 172314812120199088, guid: 2ee5f453bf67691498ce429f9de22f80, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 32401a9fe031c494ea7c282d3708e0f3
     m_Address: Paper7
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 8006954121050945993, guid: 32401a9fe031c494ea7c282d3708e0f3, type: 3}
-    m_TargetAsset: {fileID: 8006954121050945993, guid: 32401a9fe031c494ea7c282d3708e0f3, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 46eb180f04f4a1e4583dd775ae984f12
     m_Address: Can
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 2849476463256660077, guid: 46eb180f04f4a1e4583dd775ae984f12, type: 3}
-    m_TargetAsset: {fileID: 2849476463256660077, guid: 46eb180f04f4a1e4583dd775ae984f12, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 53ca73f9d32f0724e8ed837c45f900e8
     m_Address: GlassBottleBlue
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 1108438244702933319, guid: 53ca73f9d32f0724e8ed837c45f900e8, type: 3}
-    m_TargetAsset: {fileID: 1108438244702933319, guid: 53ca73f9d32f0724e8ed837c45f900e8, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 6b6b14a1a18287a4391afbe4860bb41e
     m_Address: Cereals
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 8098562647867319321, guid: 6b6b14a1a18287a4391afbe4860bb41e, type: 3}
-    m_TargetAsset: {fileID: 8098562647867319321, guid: 6b6b14a1a18287a4391afbe4860bb41e, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 72717147bc5beb14fa6ffce1e54e5aae
     m_Address: GreenBottle
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 304964180509478846, guid: 72717147bc5beb14fa6ffce1e54e5aae, type: 3}
-    m_TargetAsset: {fileID: 304964180509478846, guid: 72717147bc5beb14fa6ffce1e54e5aae, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 73e6906c263425142a903ef26c51c715
     m_Address: Paper2
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 2207043937566475143, guid: 73e6906c263425142a903ef26c51c715, type: 3}
-    m_TargetAsset: {fileID: 2207043937566475143, guid: 73e6906c263425142a903ef26c51c715, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 7d7e0f41acb2143479dc44e50afc4cd5
     m_Address: Paper5
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 7180044053210047131, guid: 7d7e0f41acb2143479dc44e50afc4cd5, type: 3}
-    m_TargetAsset: {fileID: 7180044053210047131, guid: 7d7e0f41acb2143479dc44e50afc4cd5, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 997d53f8c282ee844ab7558092c2f783
     m_Address: GlassBottleBrown
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 645806702485298613, guid: 997d53f8c282ee844ab7558092c2f783, type: 3}
-    m_TargetAsset: {fileID: 645806702485298613, guid: 997d53f8c282ee844ab7558092c2f783, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a91e1b99208811342a3d94d21456abd0
     m_Address: PizzaBox
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 5745564605488262634, guid: a91e1b99208811342a3d94d21456abd0, type: 3}
-    m_TargetAsset: {fileID: 5745564605488262634, guid: a91e1b99208811342a3d94d21456abd0, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: a977403207d86c04b9345560f6b9ce57
     m_Address: Paper6
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 6954604791504845192, guid: a977403207d86c04b9345560f6b9ce57, type: 3}
-    m_TargetAsset: {fileID: 6954604791504845192, guid: a977403207d86c04b9345560f6b9ce57, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ab4ada64ad881094d8814db836848c04
     m_Address: CanFanta
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 7200344769538546756, guid: ab4ada64ad881094d8814db836848c04, type: 3}
-    m_TargetAsset: {fileID: 7200344769538546756, guid: ab4ada64ad881094d8814db836848c04, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ae99adea5f3490f42888a2bc299f9900
     m_Address: Paper3
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 5275414347729520816, guid: ae99adea5f3490f42888a2bc299f9900, type: 3}
-    m_TargetAsset: {fileID: 5275414347729520816, guid: ae99adea5f3490f42888a2bc299f9900, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ca9f00ed9365c9e418bcfffd084034b1
     m_Address: TransparentBottle
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 3176186145398909220, guid: ca9f00ed9365c9e418bcfffd084034b1, type: 3}
-    m_TargetAsset: {fileID: 3176186145398909220, guid: ca9f00ed9365c9e418bcfffd084034b1, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: cffe13ca990ad9e4f9da90748f5cb8bb
     m_Address: CanCoke
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 3281476471636800021, guid: cffe13ca990ad9e4f9da90748f5cb8bb, type: 3}
-    m_TargetAsset: {fileID: 3281476471636800021, guid: cffe13ca990ad9e4f9da90748f5cb8bb, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: d98c8ffbf10e44b419d5552527512582
     m_Address: BinPlastic
     m_ReadOnly: 0
     m_SerializedLabels:
     - Targets
-    m_MainAsset: {fileID: 8783721755036610133, guid: d98c8ffbf10e44b419d5552527512582, type: 3}
-    m_TargetAsset: {fileID: 8783721755036610133, guid: d98c8ffbf10e44b419d5552527512582, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: dc0d498b7bcd5444ebcb2851e06f7db6
     m_Address: CoffeeCup
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 5158769159969274501, guid: dc0d498b7bcd5444ebcb2851e06f7db6, type: 3}
-    m_TargetAsset: {fileID: 5158769159969274501, guid: dc0d498b7bcd5444ebcb2851e06f7db6, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e1495950388097546aa7e02e876ae792
     m_Address: Paper1
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 2311591426657180283, guid: e1495950388097546aa7e02e876ae792, type: 3}
-    m_TargetAsset: {fileID: 2311591426657180283, guid: e1495950388097546aa7e02e876ae792, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e85fedc7ce163944c9703bb2261e3e80
     m_Address: GlassJar
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 6341369168366524599, guid: e85fedc7ce163944c9703bb2261e3e80, type: 3}
-    m_TargetAsset: {fileID: 6341369168366524599, guid: e85fedc7ce163944c9703bb2261e3e80, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: e87fd24e43e5e5846a804469bc2f1618
     m_Address: Paper4
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 6594778632126790048, guid: e87fd24e43e5e5846a804469bc2f1618, type: 3}
-    m_TargetAsset: {fileID: 6594778632126790048, guid: e87fd24e43e5e5846a804469bc2f1618, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: ef50fc4e4db29f34dae1f78657bd3e61
     m_Address: MilkBox
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 8501560080128111909, guid: ef50fc4e4db29f34dae1f78657bd3e61, type: 3}
-    m_TargetAsset: {fileID: 8501560080128111909, guid: ef50fc4e4db29f34dae1f78657bd3e61, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef519314d3739864585105e163b489ab
+    m_Address: VirtualAssistant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: f893e3a67c01eec40abfcebbb9ef704a
     m_Address: BigCan
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 8250306945506663606, guid: f893e3a67c01eec40abfcebbb9ef704a, type: 3}
-    m_TargetAsset: {fileID: 8250306945506663606, guid: f893e3a67c01eec40abfcebbb9ef704a, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fa896a2e9b230794894f6233c480945d
+    m_Address: Selection
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8674730652555214792, guid: fa896a2e9b230794894f6233c480945d, type: 3}
+    m_TargetAsset: {fileID: 8674730652555214792, guid: fa896a2e9b230794894f6233c480945d, type: 3}
   - m_GUID: fec7b479a03d21947ba3ce29a8638a20
     m_Address: Paper8
     m_ReadOnly: 0
     m_SerializedLabels:
     - Interactables
-    m_MainAsset: {fileID: 2334800620076903518, guid: fec7b479a03d21947ba3ce29a8638a20, type: 3}
-    m_TargetAsset: {fileID: 2334800620076903518, guid: fec7b479a03d21947ba3ce29a8638a20, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 78d6b42a25b4fb54291737b24947952e, type: 2}
   m_SchemaSet:
