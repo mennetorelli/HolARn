@@ -43,8 +43,9 @@ GameObject:
   - component: {fileID: 3856503187831989032}
   - component: {fileID: 5604169061156694655}
   - component: {fileID: 4182690744958548248}
-  - component: {fileID: 2862651991918723339}
   - component: {fileID: 3510309422993762661}
+  - component: {fileID: 5569134416980192772}
+  - component: {fileID: 9164274503235526393}
   m_Layer: 0
   m_Name: BinPaper
   m_TagString: Paper
@@ -131,7 +132,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!65 &2862651991918723339
+--- !u!65 &3510309422993762661
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -142,9 +143,9 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.07052146}
-  m_Center: {x: -0.00064846873, y: 0.09378645, z: 0.5988999}
---- !u!65 &3510309422993762661
+  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+--- !u!65 &5569134416980192772
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,5 +156,17 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
-  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+  m_Size: {x: 0.5230141, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.0006484687, y: 0.093786456, z: 0.30675793}
+--- !u!114 &9164274503235526393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7835562383291152957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fcbd8c032a54f4fa2d4d4a85a81149, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

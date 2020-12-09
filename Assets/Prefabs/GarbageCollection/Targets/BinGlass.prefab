@@ -43,8 +43,9 @@ GameObject:
   - component: {fileID: 5207653037357716016}
   - component: {fileID: 4075368383291038871}
   - component: {fileID: 3218431195118357737}
-  - component: {fileID: 8880464035852618281}
   - component: {fileID: 1488342755101984288}
+  - component: {fileID: 3337334569463335164}
+  - component: {fileID: 1913622961154370464}
   m_Layer: 0
   m_Name: BinGlass
   m_TagString: Glass
@@ -131,7 +132,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!65 &8880464035852618281
+--- !u!65 &1488342755101984288
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -142,9 +143,9 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.07052146}
-  m_Center: {x: -0.00064846873, y: 0.09378645, z: 0.5988999}
---- !u!65 &1488342755101984288
+  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+--- !u!65 &3337334569463335164
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -155,5 +156,17 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
-  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+  m_Size: {x: 0.5230141, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.0006484687, y: 0.093786456, z: 0.30675793}
+--- !u!114 &1913622961154370464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7216948614505861079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fcbd8c032a54f4fa2d4d4a85a81149, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

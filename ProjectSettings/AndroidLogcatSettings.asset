@@ -3,23 +3,11 @@
     "m_SelectedPackage": {
         "deviceId": "R58N32Y0QNF",
         "name": "com.DefaultCompany.HolARn",
-        "processId": 18487,
-        "exited": true
+        "processId": 24893,
+        "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "R58N32Y0QNF",
-            "name": "com.DefaultCompany.HolARn",
-            "processId": 27706,
-            "exited": true
-        },
-        {
-            "deviceId": "R58N32Y0QNF",
-            "name": "com.DefaultCompany.HolARn",
-            "processId": 28456,
-            "exited": true
-        },
         {
             "deviceId": "R58N32Y0QNF",
             "name": "com.DefaultCompany.HolARn",
@@ -43,6 +31,18 @@
             "name": "com.DefaultCompany.HolARn",
             "processId": 18487,
             "exited": true
+        },
+        {
+            "deviceId": "R58N32Y0QNF",
+            "name": "com.DefaultCompany.HolARn",
+            "processId": 19468,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N32Y0QNF",
+            "name": "com.DefaultCompany.HolARn",
+            "processId": 24893,
+            "exited": false
         }
     ],
     "m_Tags": {

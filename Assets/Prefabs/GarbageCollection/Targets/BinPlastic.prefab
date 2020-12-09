@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 8202363150493164451}
   - component: {fileID: 6839469197273525554}
   - component: {fileID: 2817041883125899473}
-  - component: {fileID: 5916360303645330005}
   - component: {fileID: 8132323673390886121}
+  - component: {fileID: 7438725889604063957}
+  - component: {fileID: 4394189002409839660}
   m_Layer: 0
   m_Name: BinPlastic
   m_TagString: Plastic
@@ -100,7 +101,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!65 &5916360303645330005
+--- !u!65 &8132323673390886121
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -111,9 +112,9 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.07052146}
-  m_Center: {x: -0.00064846873, y: 0.09378645, z: 0.5988999}
---- !u!65 &8132323673390886121
+  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+--- !u!65 &7438725889604063957
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -124,8 +125,20 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.5230142, y: 0.5765214, z: 0.60309184}
-  m_Center: {x: -0.00064846873, y: 0.093786456, z: 0.30675793}
+  m_Size: {x: 0.5230141, y: 0.5765214, z: 0.60309184}
+  m_Center: {x: -0.0006484687, y: 0.093786456, z: 0.30675793}
+--- !u!114 &4394189002409839660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4503635831481328862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fcbd8c032a54f4fa2d4d4a85a81149, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &8783721755036610133
 GameObject:
   m_ObjectHideFlags: 0

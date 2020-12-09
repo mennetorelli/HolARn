@@ -12,6 +12,9 @@ class VirtualAssistantManager : MonoBehaviour
     public bool IsBusy;
     public bool IsDragging;
     public int speed = 3;
+    public List<AudioClip> AudioList;
+
+    private AudioSource _audioSource;
 
     public static VirtualAssistantManager Instance
     {
@@ -28,6 +31,8 @@ class VirtualAssistantManager : MonoBehaviour
         else
         {
             Instance = this;
+
+            _audioSource = GetComponent<AudioSource>();
         }
     }
 
@@ -39,11 +44,13 @@ class VirtualAssistantManager : MonoBehaviour
     public void Correct()
     {
         gameObject.GetComponent<Animator>().SetTrigger("Jump");
+        _audioSource.PlayOneShot(AudioList[0]);
     }
 
     public void Wrong()
     {
         gameObject.GetComponent<Animator>().SetTrigger("ShakeHead");
+        _audioSource.PlayOneShot(AudioList[1]);
     }
 
     public void ObjectDragged(GameObject draggedObject)
